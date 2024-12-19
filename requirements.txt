@@ -1,0 +1,8 @@
+streamlit 
+pandas
+matplotlib
+plotly
+numpy
+sklearn.linear_model
+sklearn.preprocessing
+base64
