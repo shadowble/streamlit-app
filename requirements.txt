@@ -3,6 +3,6 @@ pandas
 matplotlib
 plotly
 numpy
-sklearn.linear_model
+LinearRegression
 sklearn.preprocessing
 base64
