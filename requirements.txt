@@ -5,3 +5,4 @@ plotly
 numpy
 LinearRegression
 sklearn.preprocessing
+scikit-learn
